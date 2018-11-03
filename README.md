@@ -8,3 +8,5 @@
     - `threading.Thread(target = self.listenToClient,args = (c,addr)).start()`
 - File is divided into 1KB blocks and File is transferred block by block.
   - code ensures that file is recieved at the other end in 1024bytes only at a time, but you can make changes as you want.
+### Problem Statement For Above Code
+Implement a Multithreaded File Server Using Tcp Sockets.
