@@ -5,6 +5,7 @@ Implement a Multithreaded File Server Using Tcp Sockets.
 - Multiple Clients Can Connect to the Server.
   - There are 3 files named temp.py, temp2.py and temp3.py
   - First run the multiserver.py(in server folder), then run all the above(files in client folder)
+  - With the help of Multithreading, You can download from a server and upload on the server through different clients.
 - Server create one thread for each client.
   - The line below will create thread for every client connection
     - `threading.Thread(target = self.listenToClient,args = (c,addr)).start()`
