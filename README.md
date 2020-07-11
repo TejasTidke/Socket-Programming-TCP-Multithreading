@@ -1,6 +1,7 @@
 # Socket-Programming-TCP-Multithreading
 ### Problem Statement For Above Code
 Implement a Multithreaded File Server Using Tcp Sockets.
+![alt text](https://github.com/TejasTidke/Socket-Programming-TCP-Multithreading/blob/master/server/files/question.jpeg?raw=true)
 ## File Server (Upload/Download) Using TCP Sockets using python language
 - Multiple Clients Can Connect to the Server.
   - There are 3 files named temp.py, temp2.py and temp3.py
