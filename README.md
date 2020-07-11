@@ -1,7 +1,7 @@
 # Socket-Programming-TCP-Multithreading
 ### Problem Statement For Above Code
 Implement a Multithreaded File Server Using Tcp Sockets.
-<p align="center">
+<p align="left">
   <img width="580" height="490" src="https://github.com/TejasTidke/Socket-Programming-TCP-Multithreading/blob/master/server/files/question.jpeg">
 </p>
 
